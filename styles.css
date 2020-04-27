@@ -1,0 +1,54 @@
+/* Fonts Area */
+.font-overpass{
+    font-family: 'Overpass', sans-serif;}
+.font-girassol{
+    font-family: 'Girassol', cursive;}
+.font-bree-serif{
+    font-family: 'Bree Serif', serif;}
+/* #Fonts Area */
+
+/* Font Size Area */
+.font-size-36{
+    font-size: 36px;}
+.font-size-16{
+    font-size: 16px;}
+/* Font Size Area */
+
+/* Body area */
+body{
+    background: rgb(226, 210, 210);
+}
+/* #Body area */
+
+/* Header area */
+#Header a:hover{
+    color: #0084ff;
+}
+
+#Header h3:hover{
+    color: #0084ff;;
+}
+
+/* #Header area */
+
+/* ShowCase */
+.bg-img{
+    background-image: url(https://images.pexels.com/photos/2748716/pexels-photo-2748716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 420px;
+}
+/* #ShowCase */
+
+/* About Area */
+#About{
+    margin-top: -200px;
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+/* About Area */
