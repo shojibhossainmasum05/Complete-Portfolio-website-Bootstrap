@@ -41,14 +41,53 @@ body{
 /* #ShowCase */
 
 /* About Area */
+
 #About{
     margin-top: -200px;
 }
 #About span{
     padding: 10px 20px 10px 20px;
+    border-radius: 1px;
 }
 #About hr{
     border-width: 2px;
     margin-top: 06px;
 }
 /* About Area */
+
+/* Skills Area */
+#Skills span{
+    padding: 10px 20px 10px 20px;
+    border-radius: 1px;
+}
+#Skills hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+/* #Skills Area */
+
+/* Experience Area */
+
+#Experience span{
+    padding: 10px 20px 10px 20px;
+    border-radius: 1px;
+}
+#Experience hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#Experience .card{
+    border-top: 04px solid rgb(59, 59, 59);
+}
+/* #Experience Area */
+
+/* Contact Area */
+#Contact span{
+    padding: 10px 20px 10px 20px;
+    border-radius: 1px;
+}
+#Contact hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+/* #Contact Area */
